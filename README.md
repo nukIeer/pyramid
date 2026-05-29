@@ -67,8 +67,6 @@ This map is not complete. The matrix evolves daily. We are crowdsourcing the ult
 
 ### ⚠️ Contribution Rules:
 * **Cite Sources:** No wild speculation. If you claim Vanguard owns X% of a defense contractor, link the SEC 13F filing.
-* **No Hate Speech/Antisemitism/Racism:** This repository analyzes *capital, class, and algorithmic control*. Attempts to reduce this complex, transnational system into cheap ethnic or religious bigotry will be immediately rejected and banned. The system has no religion; its only god is capital and control.
-
 ---
 
 ## 🔗 BACKLINKS & RESOURCES FOR FURTHER DIVES
